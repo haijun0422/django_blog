@@ -2,11 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb7b415-c31e-475c-950c-fd534b1028e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mall/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mall/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mall/apps/users/adminx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mall/apps/users/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mall/static/images/user.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/apps/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/apps/areas/adminx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/apps/contents/adminx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/apps/goods/adminx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/apps/oauth/adminx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/apps/orders/adminx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/apps/user/adminx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/extra_apps/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/address.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/addressList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/allOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/bigBrand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/brand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/brandWeek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/brandstreet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/checkin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/css/shopin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/css/shopin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/css/swiper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/css/ticket.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/getTicket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/58dj10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/58dj40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/adc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/brand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/cdjy20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/clogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/coupon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/dddc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/fshy10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/fshy20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/fshy30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/fshy40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/fshy5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/fshy50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/cate_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/cate_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/cate_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/cate_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/cate_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/cate_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/outdoor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p6-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p7-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p8-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/p8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/product16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/product17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/product18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/product20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/sport.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/img/userImg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/lady.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/load.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/lt50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/menu-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/menu-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/menu-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/menu-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/msh20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/nfsq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/pop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/rerc5zhe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/return.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/rrc1000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/rrc400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/rrc5zhe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/soldout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/soldoutsale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/sp_girl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/sprites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/tyy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/vip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/wdlt50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/images/wlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/barcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/base.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/cate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/fast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/iscroll-lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/iscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/msgbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/qrcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/shopin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/js/zepto.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/logistics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/myTicket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/orderdetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/payment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/personal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/points.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/purchase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/purchaseEnd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/purchaseWait.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/record.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/recycle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/regist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/returnGoods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/returnList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/returnSuccess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/soldout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/storeList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/ticket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/vip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/waitConfirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/waitPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/static/waitPickup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShopProject/mall/utils/db_models.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data_analysis/.idea/data_analysis.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data_analysis/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data_analysis/.idea/modules.xml" beforeDir="false" />
@@ -328,7 +460,142 @@
       <change beforePath="$PROJECT_DIR$/../data_analysis/venv/lib/python3.5/site-packages/setuptools.pth" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data_analysis/venv/lib64" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../data_analysis/venv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_allauth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../django_allauth/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git_test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mall/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/apps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mall/apps/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/apps/users/adminx.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mall/apps/users/adminx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/apps/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mall/apps/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/mall/settings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/mall/settings/pro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/address.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/addressList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/allOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/bigBrand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/brand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/brandWeek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/brandstreet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/checkin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/css/shopin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/css/shopin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/css/swiper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/css/ticket.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/getTicket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/58dj10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/58dj40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/adc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/brand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/cdjy20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/clogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/coupon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/dddc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/fshy10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/fshy20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/fshy30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/fshy40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/fshy5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/fshy50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/cate_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/cate_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/cate_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/cate_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/cate_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/cate_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/outdoor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p6-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p7-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p8-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/p8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/product16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/product17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/product18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/product20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/sport.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/img/userImg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/lady.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/load.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/lt50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/menu-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/menu-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/menu-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/menu-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/msh20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/nfsq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/pop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/rerc5zhe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/return.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/rrc1000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/rrc400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/rrc5zhe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/soldout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/soldoutsale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/sp_girl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/sprites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/tyy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/user.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mall/static/images/user.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/vip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/wdlt50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/images/wlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/barcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/base.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/cate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/fast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/iscroll-lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/iscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/msgbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/qrcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/shopin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/js/zepto.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/logistics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/myTicket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/orderdetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/payment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/personal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/points.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/purchase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/purchaseEnd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/purchaseWait.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/record.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/recycle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/regist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/returnGoods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/returnList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/returnSuccess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/soldout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/storeList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/ticket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/vip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/waitConfirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/waitPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall/static/waitPickup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wechatproject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wechatproject/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wechatproject/.idea/modules.xml" beforeDir="false" />
@@ -863,18 +1130,21 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="20" />
+          <entry key="md" value="1" />
           <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="20" />
+          <entry key="Markdown" value="1" />
           <entry key="Python" value="19" />
         </counts>
       </usages-collector>
@@ -893,32 +1163,11 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#64#0" expanded="true" />
-                <marker date="1547200901987" expanded="true" signature="644:921" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="1121:1399" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="1506:1731" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="1793:3213" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="2176:2177" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="2176:2181" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="2493:2494" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="2493:2498" ph="..." />
-                <marker date="1547200901987" expanded="true" signature="2840:2841" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="220">
               <caret line="11" column="17" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="e#146#170#0" expanded="true" />
@@ -931,8 +1180,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="154">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding>
                 <element signature="e#144#181#0" expanded="true" />
               </folding>
@@ -944,7 +1193,7 @@
         <entry file="file://$PROJECT_DIR$/templates/article_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -953,7 +1202,7 @@
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -971,7 +1220,7 @@
         <entry file="file://$PROJECT_DIR$/templates/article_create_form.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -989,7 +1238,7 @@
         <entry file="file://$PROJECT_DIR$/templates/article_detail.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-end-line="44" selection-end-column="7" />
+              <caret line="10" selection-end-line="44" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -1014,7 +1263,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1058,6 +1307,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1065,36 +1315,10 @@
               <item name="project_blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="project_blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="project_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app_extra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="project_blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project_blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1155,18 +1379,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1851" height="893" extended-state="6" />
+    <frame x="64" y="-11" width="1853" height="901" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25263157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1174,11 +1392,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1199,12 +1423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-            <marker date="1547190069655" expanded="true" signature="146:151" ph="..." />
-            <marker date="1547190069655" expanded="true" signature="266:271" ph="..." />
-            <marker date="1547190069655" expanded="true" signature="350:355" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1219,9 +1437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1232,9 +1447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,11 +1468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-            <marker date="1547200150782" expanded="true" signature="276:281" ph="..." />
-            <marker date="1547200150782" expanded="true" signature="2268:2376" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1274,16 +1481,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/published_article_list.html">
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="242">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="220">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="e#146#170#0" expanded="true" />
@@ -1292,10 +1502,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/article_draft_list.html">
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="154">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#144#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1309,57 +1529,43 @@
     <entry file="file://$PROJECT_DIR$/templates/article_create_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/article_draft_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/article_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-end-line="44" selection-end-column="7" />
+          <caret line="10" selection-end-line="44" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
+    <entry file="file://$PROJECT_DIR$/templates/published_article_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-            <marker date="1547200901987" expanded="true" signature="644:921" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="1121:1399" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="1506:1731" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="1793:3213" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="2176:2177" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="2176:2181" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="2493:2494" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="2493:2498" ph="..." />
-            <marker date="1547200901987" expanded="true" signature="2840:2841" ph="..." />
-          </folding>
+        <state relative-caret-position="352">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#144#181#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/article_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
         </state>
       </provider>
     </entry>
